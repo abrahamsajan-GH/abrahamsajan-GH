@@ -1,35 +1,4 @@
 <div align="center">
-<table>
-<tr>
-<td width="230" align="center">
-<img src="assets/pixel_avatar.svg" width="210" height="210" alt="Abraham Sajan — pixel avatar generated from a photo via a Python script"/>
-</td>
-<td>
-<img src="assets/terminal_banner.svg" width="590" alt="Terminal boot sequence introducing Abraham Sajan"/>
-</td>
-</tr>
-</table>
-
-<a href="https://www.linkedin.com/in/abrahamsajan/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://get-to-know-abraham.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
-</a>
-<br><br>
-<b>📍 Kerala, India</b>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://edge-pipeline-lemon.vercel.app/api/render-carousel" width="800" height="250" alt="Profile Highlights Carousel" />
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://edge-pipeline-lemon.vercel.app/api/action?dir=neutral">
     <img src="https://edge-pipeline-lemon.vercel.app/api/render-game" width="800" height="400" alt="Twitch Plays RPG" />
   </a>
@@ -62,6 +31,37 @@
       </td>
     </tr>
   </table>
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td width="230" align="center">
+<img src="assets/pixel_avatar.svg" width="210" height="210" alt="Abraham Sajan — pixel avatar generated from a photo via a Python script"/>
+</td>
+<td>
+<img src="assets/terminal_banner.svg" width="590" alt="Terminal boot sequence introducing Abraham Sajan"/>
+</td>
+</tr>
+</table>
+
+<a href="https://www.linkedin.com/in/abrahamsajan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://get-to-know-abraham.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+</a>
+<br><br>
+<b>📍 Kerala, India</b>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://edge-pipeline-lemon.vercel.app/api/render-carousel" width="800" height="250" alt="Profile Highlights Carousel" />
 </div>
 
 
