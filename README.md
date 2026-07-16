@@ -10,9 +10,15 @@
 </tr>
 </table>
 
-<a href="https://www.linkedin.com/in/abrahamsajan/">LinkedIn</a> ·
-<a href="https://get-to-know-abraham.vercel.app">Portfolio</a> ·
-Kerala, India
+<a href="https://www.linkedin.com/in/abrahamsajan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://get-to-know-abraham.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+</a>
+<br><br>
+<b>📍 Kerala, India</b>
 </div>
 
 <br>
