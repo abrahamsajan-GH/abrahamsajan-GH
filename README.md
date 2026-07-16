@@ -17,6 +17,21 @@ Kerala, India
 
 <br>
 
+<div align="center">
+  <a href="https://edge-pipeline-lemon.vercel.app/api/action?faction=neutral">
+    <img src="https://edge-pipeline-lemon.vercel.app/api/render" width="800" height="200" alt="The Stack War: Flutter vs Backend" />
+  </a>
+  <br>
+  <a href="https://edge-pipeline-lemon.vercel.app/api/action?faction=flutter">
+    <img src="https://img.shields.io/badge/VOTE-FLUTTER-2dd4bf?style=for-the-badge" alt="Vote Flutter" />
+  </a>
+  <a href="https://edge-pipeline-lemon.vercel.app/api/action?faction=backend">
+    <img src="https://img.shields.io/badge/VOTE-BACKEND-a3e635?style=for-the-badge" alt="Vote Backend" />
+  </a>
+</div>
+
+<br>
+
 ```dart
 class AbrahamSajan extends StatelessWidget {
   const AbrahamSajan({super.key});
