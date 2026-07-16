@@ -1,36 +1,7 @@
 <div align="center">
-  <a href="https://edge-pipeline-lemon.vercel.app/api/action?dir=neutral">
-    <img src="https://edge-pipeline-lemon.vercel.app/api/render-game" width="800" height="400" alt="Twitch Plays RPG" />
-  </a>
+  <img src="https://edge-pipeline-lemon.vercel.app/api/render-game" width="800" height="400" alt="Daily Logic Quest" />
   <br>
-  <table>
-    <tr>
-      <td></td>
-      <td>
-        <a href="https://edge-pipeline-lemon.vercel.app/api/action?dir=up">
-          <img src="https://img.shields.io/badge/W-UP-2dd4bf?style=for-the-badge" alt="Up" />
-        </a>
-      </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://edge-pipeline-lemon.vercel.app/api/action?dir=left">
-          <img src="https://img.shields.io/badge/A-LEFT-2dd4bf?style=for-the-badge" alt="Left" />
-        </a>
-      </td>
-      <td>
-        <a href="https://edge-pipeline-lemon.vercel.app/api/action?dir=down">
-          <img src="https://img.shields.io/badge/S-DOWN-2dd4bf?style=for-the-badge" alt="Down" />
-        </a>
-      </td>
-      <td>
-        <a href="https://edge-pipeline-lemon.vercel.app/api/action?dir=right">
-          <img src="https://img.shields.io/badge/D-RIGHT-2dd4bf?style=for-the-badge" alt="Right" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://edge-pipeline-lemon.vercel.app/api/action?vote=0"><img src="https://img.shields.io/badge/A-VOTE-2dd4bf?style=for-the-badge" alt="Vote A" /></a>&nbsp;&nbsp;<a href="https://edge-pipeline-lemon.vercel.app/api/action?vote=1"><img src="https://img.shields.io/badge/B-VOTE-2dd4bf?style=for-the-badge" alt="Vote B" /></a>&nbsp;&nbsp;<a href="https://edge-pipeline-lemon.vercel.app/api/action?vote=2"><img src="https://img.shields.io/badge/C-VOTE-2dd4bf?style=for-the-badge" alt="Vote C" /></a>&nbsp;&nbsp;<a href="https://edge-pipeline-lemon.vercel.app/api/action?vote=3"><img src="https://img.shields.io/badge/D-VOTE-2dd4bf?style=for-the-badge" alt="Vote D" /></a>
 </div>
 
 <br>
