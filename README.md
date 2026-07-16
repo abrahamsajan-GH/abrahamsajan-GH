@@ -18,47 +18,46 @@ Kerala, India
 <br>
 
 <div align="center">
-  <a href="https://edge-pipeline-lemon.vercel.app/api/action?faction=neutral">
-    <img src="https://edge-pipeline-lemon.vercel.app/api/render" width="800" height="200" alt="The Stack War: Flutter vs Backend" />
-  </a>
-  <br>
-  <a href="https://edge-pipeline-lemon.vercel.app/api/action?faction=flutter">
-    <img src="https://img.shields.io/badge/VOTE-FLUTTER-2dd4bf?style=for-the-badge" alt="Vote Flutter" />
-  </a>
-  <a href="https://edge-pipeline-lemon.vercel.app/api/action?faction=backend">
-    <img src="https://img.shields.io/badge/VOTE-BACKEND-a3e635?style=for-the-badge" alt="Vote Backend" />
-  </a>
+  <img src="https://edge-pipeline-lemon.vercel.app/api/render-carousel" width="800" height="250" alt="Profile Highlights Carousel" />
 </div>
 
 <br>
 
-```dart
-class AbrahamSajan extends StatelessWidget {
-  const AbrahamSajan({super.key});
+<div align="center">
+  <a href="https://edge-pipeline-lemon.vercel.app/api/action?dir=neutral">
+    <img src="https://edge-pipeline-lemon.vercel.app/api/render-game" width="800" height="400" alt="Twitch Plays RPG" />
+  </a>
+  <br>
+  <table>
+    <tr>
+      <td></td>
+      <td>
+        <a href="https://edge-pipeline-lemon.vercel.app/api/action?dir=up">
+          <img src="https://img.shields.io/badge/W-UP-2dd4bf?style=for-the-badge" alt="Up" />
+        </a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://edge-pipeline-lemon.vercel.app/api/action?dir=left">
+          <img src="https://img.shields.io/badge/A-LEFT-2dd4bf?style=for-the-badge" alt="Left" />
+        </a>
+      </td>
+      <td>
+        <a href="https://edge-pipeline-lemon.vercel.app/api/action?dir=down">
+          <img src="https://img.shields.io/badge/S-DOWN-2dd4bf?style=for-the-badge" alt="Down" />
+        </a>
+      </td>
+      <td>
+        <a href="https://edge-pipeline-lemon.vercel.app/api/action?dir=right">
+          <img src="https://img.shields.io/badge/D-RIGHT-2dd4bf?style=for-the-badge" alt="Right" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-  @override
-  Widget build(BuildContext context) {
-    return Developer(
-      role: 'Flutter Engineer · AI & Backend Engineer',
-      background: [
-        '3 startups · 1 Solutions Engineer role · 1 full-stack (MERN + Flutter) internship',
-        'Started in C (11th grade) → C++ → BCA → full-stack mobile',
-      ],
-      currentFocus: const [
-        'GenAI-powered mobile experiences',
-        'Real-time voice pipelines (Vertex AI)',
-        'IoT-connected apps (Bluetooth / Wi-Fi)',
-      ],
-      shipped: const [
-        '15+ real-time enterprise event apps · Air India, Dell, PhonePe, Accenture',
-        'CheekoAI — Lead Engineer',
-        'AI smart-toy platform — real-time voice AI + BLE/Wi-Fi, shipped to production',
-      ],
-      awards: const ['🏆 3rd Place — ElevenLabs Worldwide Hackathon 2025'],
-    );
-  }
-}
-```
 
 ### How the pieces talk to each other
 
