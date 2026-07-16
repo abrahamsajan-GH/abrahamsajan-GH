@@ -1,0 +1,45 @@
+<svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono', 'Fira Code', Consolas, Monaco, monospace">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2dd4bf"/>
+    </marker>
+    <marker id="arrowBack" markerWidth="10" markerHeight="10" refX="2" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M9,0 L9,6 L0,3 z" fill="#f59e0b"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="220" fill="#0a0e14" rx="12" stroke="#1c2530" stroke-width="1.5"/>
+
+  <!-- nodes -->
+  <g font-size="14">
+    <!-- Device -->
+    <rect x="30" y="70" width="150" height="70" rx="10" fill="#10151c" stroke="#2dd4bf" stroke-width="1.5"/>
+    <text x="105" y="98" fill="#c9d1d9" text-anchor="middle" font-weight="600">Device</text>
+    <text x="105" y="118" fill="#8b949e" text-anchor="middle" font-size="12">BLE / Wi-Fi</text>
+
+    <!-- Flutter App -->
+    <rect x="255" y="70" width="150" height="70" rx="10" fill="#10151c" stroke="#84cc16" stroke-width="1.5"/>
+    <text x="330" y="98" fill="#c9d1d9" text-anchor="middle" font-weight="600">Flutter App</text>
+    <text x="330" y="118" fill="#8b949e" text-anchor="middle" font-size="12">Dart · Bloc</text>
+
+    <!-- Cloud -->
+    <rect x="480" y="70" width="170" height="70" rx="10" fill="#10151c" stroke="#2dd4bf" stroke-width="1.5"/>
+    <text x="565" y="93" fill="#c9d1d9" text-anchor="middle" font-weight="600">Cloud</text>
+    <text x="565" y="112" fill="#8b949e" text-anchor="middle" font-size="11">Node.js · Firebase</text>
+    <text x="565" y="127" fill="#8b949e" text-anchor="middle" font-size="11">Supabase</text>
+
+    <!-- GenAI -->
+    <rect x="720" y="70" width="150" height="70" rx="10" fill="#10151c" stroke="#f59e0b" stroke-width="1.5"/>
+    <text x="795" y="98" fill="#c9d1d9" text-anchor="middle" font-weight="600">GenAI</text>
+    <text x="795" y="118" fill="#8b949e" text-anchor="middle" font-size="12">Vertex AI</text>
+  </g>
+
+  <!-- forward arrows -->
+  <line x1="180" y1="95" x2="253" y2="95" stroke="#2dd4bf" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="405" y1="95" x2="478" y2="95" stroke="#2dd4bf" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="650" y1="95" x2="718" y2="95" stroke="#2dd4bf" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- return path: realtime voice response back to device -->
+  <path d="M 795 140 C 795 175, 105 175, 105 140" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="4 3" marker-end="url(#arrowBack)"/>
+  <text x="450" y="192" fill="#f59e0b" text-anchor="middle" font-size="12">real-time voice response</text>
+</svg>
